@@ -1,0 +1,9 @@
+Name: NetLogic
+Type: NetLogicCategoryFolder
+Children:
+- Name: ConnessioneDB
+  Id: g=2d0b5b8aea0692eeca3eb030ed792721
+  Type: NetLogic
+  Children:
+  - Class: Method
+    Name: ConnectingToOracle
